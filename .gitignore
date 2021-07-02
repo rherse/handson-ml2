@@ -21,5 +21,4 @@ datasets/spam
 datasets/titanic
 datasets/words
 datasets/jsb_chorales
-
-/.venv/
+.python-version
